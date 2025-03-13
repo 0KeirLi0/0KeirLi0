@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0KeirLi0
 - 📍 I‘m located in Hong Kong
-- 👀 I’m interested in Machine Learning, Quantitative Finance, Statistic Model
+- 👀 I’m interested in Automation, Machine Learning, Quantitative Finance, Statistic Model
 - 🌱 I’m currently pursuing a major in Quantitative Finance @CUHK
 - 📫 Reach me by lihk0852@gmail.com
 - ⚡ Fun fact: I play trombone.
